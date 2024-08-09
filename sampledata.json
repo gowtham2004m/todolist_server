@@ -1,0 +1,6 @@
+[
+    { "item": "Buy groceries", "checked": false },
+    { "item": "Walk the dog", "checked": true },
+    { "item": "Read a book", "checked": false }
+  ]
+  
